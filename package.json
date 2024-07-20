@@ -1,0 +1,20 @@
+{
+  "name": "random-str-msg-isra",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Israel Mancha <mancha.israel.mijares@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IsraelMancha/random-str-msg-isra/issues"
+  },
+  "homepage": "https://github.com/IsraelMancha/random-str-msg-isra#readme",
+  "bin": {
+    "random-str-msg-isra": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
